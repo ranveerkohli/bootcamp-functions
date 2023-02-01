@@ -5,10 +5,4 @@ tenant_id: 16e3985b-ebe8-4e24-9da4-933e21a9fc81
 cdf_cluster: westeurope-1
 cdf_project: cdf-bootcamp-26-prod
 
-env_vars: {
-  "COGNITE_BASE_URL": "https://westeurope-1.cognitedata.com",
-  "COGNITE_PROJECT": "cdf-bootcamp-26-prod",
-  "COGNITE_TOKEN_URL": "https://login.microsoftonline.com/16e3985b-ebe8-4e24-9da4-933e21a9fc81/oauth2/v2.0/token",
-}
-data_set_id: 3451015040752734
 
